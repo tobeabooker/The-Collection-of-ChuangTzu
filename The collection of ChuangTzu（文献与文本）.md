@@ -1,10 +1,4 @@
 
-<head>
-<style>
-    .post-body p a{color:#555;font-weight: normal;}
-    p{text-indent:2em;}
-</style>
-</head>
 
 参考文献：《先秦诸子知见书目》《无求备斋庄子集成》《子藏·庄子卷》《庄子学史》《中国庄学史》《二十世纪中国庄学》、《十家论庄》后的文献附录以及[白云深处人家网站](http://www.homeinmists.com)。
 
