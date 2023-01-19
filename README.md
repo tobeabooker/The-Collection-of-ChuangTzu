@@ -1,6 +1,6 @@
 # The collection of ChuangTzu（文献与文本）
 
-## 文献部分已初步搞定。见仓库下：The collection of ChuangTzu（文献篇）.md
+## 文献部分已初步搞定。见仓库下：[The collection of ChuangTzu（文献篇）.md](https://github.com/tobeabooker/The-collection-of-ChuangTzu/blob/main/The%20collection%20of%20ChuangTzu%EF%BC%88%E6%96%87%E7%8C%AE%E7%AF%87%EF%BC%89.md)
 
 ---
 
