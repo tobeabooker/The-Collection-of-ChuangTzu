@@ -1,6 +1,6 @@
-# The-collection-of-ChuangTzu（文献与文本）
+# The collection of ChuangTzu（文献与文本）
 
-##文献部分已初步搞定。见仓库下：The collection of ChuangTzu（文献篇）.md
+## 文献部分已初步搞定。见仓库下：The collection of ChuangTzu（文献篇）.md
 
 ---
 
