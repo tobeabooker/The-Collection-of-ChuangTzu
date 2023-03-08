@@ -1,12 +1,4 @@
 
-<head>
-<style>
-    .post-body p a{color:#555;font-weight: normal;}
-    p{text-indent:2em;}
-    .site-meta p,li p{text-indent:0em ! important;}
-</style>
-</head>
-
 参考书目：《先秦诸子知见书目》《庄子学史》《中国庄学史》《二十世纪中国庄学》、《十家论庄》后的文献附录。
 
 文献范围（点击链接可查看目录）：
