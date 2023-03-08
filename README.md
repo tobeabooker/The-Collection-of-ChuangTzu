@@ -2,6 +2,8 @@
 
 ## 文献部分已初步搞定。见仓库下：[The collection of ChuangTzu（文献篇）.md](https://github.com/tobeabooker/The-collection-of-ChuangTzu/blob/main/The%20collection%20of%20ChuangTzu%EF%BC%88%E6%96%87%E7%8C%AE%E7%AF%87%EF%BC%89.md)
 
+## 文本篇已大概校了《逍遥游》篇。见博客地址。
+
 ---
 
 目前的设想，文献部分注重文献的搜集，依据《无求备斋庄子集成》《子藏·庄子卷》《庄子学史》《庄子纂要》《中国庄学史》《二十世纪中国庄学》以及《十家论庄》后的文献附录等文献，搜罗古本、点校本、近现代研究著作的电子资源，也顺便整理一下网盘里的上百G的庄子文献。另外，文献也应当包括海外文献，所以设有“海外庄子学”版块。
