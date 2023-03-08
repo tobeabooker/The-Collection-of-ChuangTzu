@@ -12,7 +12,7 @@
 
 后续内容会同步到博客与github。
 
->博客地址：tobeabooker.github.io/posts/nhzj.html
+>博客地址：tobeabooker.github.io/posts/zzwx.html
 >
 >github地址：github.com/tobeabooker/The-collection-of-ChuangTzu
 
