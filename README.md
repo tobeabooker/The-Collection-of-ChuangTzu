@@ -12,13 +12,6 @@
 
 ![](https://s3.bmp.ovh/imgs/2022/10/12/8883fd53a948d38e.gif)
 
-后续内容会同步到博客与github。
-
->文献篇博客地址：tobeabooker.github.io/posts/zzwx.html
->
->文本篇博客地址：tobeabooker.github.io/posts/zzwb.html
->
->github地址：github.com/tobeabooker/The-collection-of-ChuangTzu
 
 工作量很大，所以也希望有人能一起做。目前已经忽悠到几个人了。
 
