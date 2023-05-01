@@ -2,7 +2,7 @@
 
 ## 文献篇已初步搞定。见仓库下：[The collection of ChuangTzu（文献篇）.md](https://github.com/tobeabooker/The-collection-of-ChuangTzu/blob/main/The%20collection%20of%20ChuangTzu%EF%BC%88%E6%96%87%E7%8C%AE%E7%AF%87%EF%BC%89.md)
 
-## 文本篇已大概校了《逍遥游》篇。见[博客地址](tobeabooker.github.io/posts/zzwb.html)。
+## 文本篇已大概校了《逍遥游》篇。见博客：tobeabooker.github.io/posts/zzwb.html。
 
 ---
 
